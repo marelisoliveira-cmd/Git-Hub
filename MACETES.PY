@@ -9,7 +9,6 @@
 #
 # 2. Edição de linhas
 # - Mover linha para cima/baixo: Alt + ↑/↓ / Option + ↑/↓
-# - Duplicar linha: Shift + Alt + ↓/↑ / Shift + Option + ↓/↑
 # - Deletar linha: Ctrl + Shift + K / Cmd + Shift + K
 #
 # 5. Busca e substituição

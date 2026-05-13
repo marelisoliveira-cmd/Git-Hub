@@ -11,7 +11,6 @@
 # - Mover linha para cima/baixo: Alt + ↑/↓ / Option + ↑/↓
 # - Duplicar linha: Shift + Alt + ↓/↑ / Shift + Option + ↓/↑
 # - Deletar linha: Ctrl + Shift + K / Cmd + Shift + K
-# - Comentar/descomentar linha ou bloco: Ctrl + / / Cmd + /
 #
 # 5. Busca e substituição
 # - Buscar no arquivo: Ctrl + F / Cmd + F

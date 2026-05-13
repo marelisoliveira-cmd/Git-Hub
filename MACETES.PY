@@ -14,4 +14,3 @@
 # - Buscar no arquivo: Ctrl + F / Cmd + F
 # - Buscar e substituir: Ctrl + H / Cmd + H
 
-#
